@@ -1,16 +1,21 @@
-## Hi there 👋
+> # Hello , I'm zcygod
 
-<!--
-**zcygod1337/zcygod1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 所以你看到了这里，嗯对
 
-Here are some ideas to get you started:
+我是zcygod，一名普普通通的初二（写这个readme的时候是）学生
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+很高兴你可以看到这里，也许你是和我一样的学生，也许你也和我一样是一名开源软件开发者（虽然我也没开发出来什么东西）
+
+我不知道说啥了
+
+嗯对
+
+谢谢你还看到这里
+
+嗯对
+
+我真不知道说啥了
+
+嗯对
+
+> [点我看我的网站](https://zcygod.top/)
